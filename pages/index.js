@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Freelance Jobs are Available, Just you should be able to manage your current job along with this freelance job in Java Programming. <BR> Earn More Clear Your All Loans</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
